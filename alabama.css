@@ -1,0 +1,52 @@
+h1 {
+ text-align:center;
+ border: double;
+ border-color: gray;
+ border-width: thick;
+}
+body {
+  background-image: url("drl1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+a {
+  text-decoration: none;
+}
+footer {
+  position:static;
+  left:0;
+  bottom:0;
+  width:100%;
+  color:black;
+  text-align:center;
+}
+.wiseman {
+  width:50px;
+  height:55px;
+  border-radius: 50%;
+}
+.four {
+  width:75px;
+  height:20px;
+}
+.five {
+  width:75px;
+  height:20px;
+}
+td {
+  text-align:center;
+  color: black;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+h2 {
+  margin: auto;
+  width: 15%;
+  text-align: center;
+  background-color: red;
+  color: black;
+}
