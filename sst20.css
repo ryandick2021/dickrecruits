@@ -1,0 +1,135 @@
+body {
+  background-image: url("drl1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+ text-align:center;
+ border: double;
+ border-color: gray;
+ border-width: thick;
+}
+td {
+  text-align: center;
+}
+.unc {
+  height: 55px;
+  width:55px;
+  border-radius: 50%;
+}
+.undecided {
+  width: 25px;
+  height:35px;
+}
+.arizona {
+  width:45px;
+  height:40px;
+}
+.florida {
+  width:50px;
+  height:40px;
+}
+.texas {
+  width:55px;
+  height:35px;
+}
+.osu {
+  width: 50px;
+  height:40px;
+}
+.tt {
+  width: 45px;
+  height:45px;
+}
+.msu {
+  width: 45px;
+  height:45px;
+}
+.lville {
+  width: 45px;
+  height:45px;
+}
+.fsu {
+  width: 45px;
+  height:45px;
+}
+.zags {
+  width: 45px;
+  height:45px;
+}
+.kentucky {
+  width:45px;
+  height:40px;
+}
+.school {
+width: 45px;
+height: 35px;
+}
+.duke {
+width: 45px;
+height: 35px;
+}
+.nova {
+width: 45px;
+height: 35px;
+}
+.memphis {
+width: 45px;
+height: 35px;
+}
+.usc {
+width: 45px;
+height: 35px;
+}
+.georgia {
+width: 45px;
+height: 35px;
+}
+.oregon {
+width: 45px;
+height: 35px;
+}
+.auburn {
+width: 45px;
+height: 35px;
+}
+.bama {
+width: 45px;
+height: 35px;
+}
+.uconn {
+width: 55px;
+height: 45px;
+}
+.oksu {
+width: 45px;
+height: 35px;
+}
+#myTable {
+  border-spacing: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+}
+
+th {
+  cursor: pointer;
+}
+
+th, td {
+  text-align: left;
+  padding: 16px;
+}
+footer {
+  position:static;
+  left:0;
+  bottom:0;
+  width:100%;
+  color:black;
+  text-align:center;
+}
+a {
+  text-decoration: none;
+  color: black;
+}

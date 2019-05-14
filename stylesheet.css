@@ -1,0 +1,127 @@
+h1 {
+ text-align:center;
+ border: double;
+ border-color: gray;
+ border-width: thick;
+}
+h2 {
+  text-align: center;
+  border: groove;
+  border-color: gray;
+  border-width: medium;
+}
+body {
+  background-image: url("drl1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.p1 {
+  color:black;
+  font-size:16px;
+  text-align: left;
+  font-family: comic;
+}
+.dropbtn {
+  background-color: blue;
+  font-weight: bold;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.dropbtn2 {
+  margin:0;
+  background-color: blue;
+  font-weight: bold;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+.button {
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+  font-family: arial;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  width: 125px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+  margin: 0px;
+}
+a {
+  text-decoration: none;
+}
+.center {
+margin:20px;
+width:12%;
+vertical-align: text-top;
+font-size: 20px;
+}
+.center2 {
+  margin: 20px;
+  width:12%;
+  vertical-align: text-top;
+  font-size: 20px;
+}
+.center3 {
+  vertical-align: text-top;
+  width:6%;
+  font-size: 20px;
+}
+td {
+  padding-right: 20px;
+}
+.james {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  padding-top: 20px;
+}
+.evan {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width:50%;
+  padding-top: 20px;
+}
+figcaption {
+  text-align: center;
+}
+footer {
+  position:static;
+  left:0;
+  bottom:0;
+  width:100%;
+  color:black;
+  text-align:center;
+}
+
+.dropdown-content a:hover {background-color: red;}
+.dropdown:hover .dropdown-content {display: block;}
+.dropdown:hover .dropbtn {background-color: black;}
+.dropdown:hover .dropbtn2 {background-color: black;}

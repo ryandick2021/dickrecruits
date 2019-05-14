@@ -1,0 +1,152 @@
+td {
+  text-align:center;
+  color: black;
+}
+body {
+  background-image: url("drl1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+ text-align:center;
+ border: double;
+ border-color: gray;
+ border-width: thick;
+}
+.five {
+  width:75px;
+  height:20px;
+}
+.four {
+  width:75px;
+  height:20px;
+}
+.school {
+  width: 45px;
+  height:35px;
+}
+.wiseman {
+  width:50px;
+  height:55px;
+  border-radius: 50%;
+}
+.aedwards {
+  width: 55px;
+  height:60px;
+  border-radius:50%;
+}
+footer {
+  position:static;
+  left:0;
+  bottom:0;
+  width:100%;
+  color:black;
+  text-align:center;
+}
+.unc {
+  height: 55px;
+  width:55px;
+  border-radius: 50%;
+}
+.undecided {
+  width: 25px;
+  height:35px;
+}
+.arizona {
+  width:45px;
+  height:40px;
+}
+.florida {
+  width:50px;
+  height:40px;
+}
+.tenn {
+  height:50px;
+  width:45px;
+}
+.indiana {
+  height: 38px;
+  width:30px;
+}
+.texas {
+  width:55px;
+  height:35px;
+}
+.osu {
+  width: 50px;
+  height:40px;
+}
+.tt {
+  width: 45px;
+  height:45px;
+}
+.msu {
+  width: 45px;
+  height:45px;
+}
+.lville {
+  width: 45px;
+  height:45px;
+}
+.homa {
+  width: 45px;
+  height:38px;
+}
+.ncsu {
+  width: 45px;
+  height:45px;
+}
+.fsu {
+  width: 45px;
+  height:45px;
+}
+.zags {
+  width: 45px;
+  height:45px;
+}
+.illini {
+  width: 35px;
+  height:40px;
+}
+.prov {
+  width: 60px;
+  height:55px;
+}
+.uconn {
+  width: 55px;
+  height:45px;
+}
+.nw {
+  width: 30px;
+  height:35px;
+}
+.ucla {
+  width: 80px;
+  height:55px;
+}
+.miss {
+  width: 80px;
+  height:50px;
+}
+.butler {
+  width: 80px;
+  height:70px;
+}
+.cuse {
+  width: 50px;
+  height:40px;
+}
+.harvard {
+  width: 45px;
+  height: 45px;
+}
+a {
+  text-decoration:none;
+  color: black;
+}
+.stanford {
+  height: 38px;
+  width:30px;
+}
