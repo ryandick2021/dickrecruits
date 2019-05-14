@@ -52,16 +52,6 @@ li {
 .l1 {
   text-align:left;
 }
-.scout {
-  font-size: 18px;
-  width:47%;
-  text-align: center;
-  font-style: italic;
-  text-decoration: underline;
-  border: 1px solid black;
-  
-}
-
 .ae {
   width: 300px;
   height:350px;
@@ -76,7 +66,7 @@ li {
 }
 .crystal {
   font-size:18px;
-  width: 28%;
+  width: 25%;
   text-align: center;
   font-style: italic;
   text-decoration: underline;
@@ -104,30 +94,12 @@ footer {
 .twitter {
   text-align: center;
 }
-.eval {
-  vertical-align: text-top;
-  font-size: 16px;
-  font-family: times;
-  font-weight: bold;
-}
 .compare {
-  width:25%;
+  width:47%;
   text-align: center;
   font-style: italic;
   text-decoration: underline;
   border: 1px solid black;
-  font-size:18px;
-}
-.draft {
-  text-align: center;
-  font-style: italic;
-  text-decoration: underline;
-  border: 1px solid black;
-  font-size:18px;
-}
-.lottery {
-  vertical-align: text-top;
-  font-weight: bold;
   font-size:18px;
 }
 .compar {
@@ -157,6 +129,43 @@ h2 {
   height:28px;
   vertical-align: auto;
 }
-.pred {
+iframe {
+  padding-left: 30px;
+}
+.predictions {
+  width: 47%;
   text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.rating{
+  width: 28%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.predictionnn {
+  vertical-align: text-top;
+  text-align: center;
+}
+.five {
+  width:130px;
+  height:55px;
+  padding-left: 35%;
+}
+.text {
+  text-align: center;
+  vertical-align: baseline;
+}
+figcaption {
+  text-align: center;
+}
+.aedwards {
+  width: 55px;
+  height:60px;
+  border-radius:50%;
 }

@@ -8,10 +8,6 @@ body {
 h1 {
   text-align: center;
 }
-h2 {
-  font-size: 20px;
-  padding: 5px;
-}
 td {
   font-size: 17px;
   font-family: times;
@@ -56,16 +52,6 @@ li {
 .l1 {
   text-align:left;
 }
-.scout {
-  font-size: 18px;
-  width:47%;
-  text-align: center;
-  font-style: italic;
-  text-decoration: underline;
-  border: 1px solid black;
-  
-}
-
 .ae {
   width: 300px;
   height:350px;
@@ -80,7 +66,7 @@ li {
 }
 .crystal {
   font-size:18px;
-  width: 28%;
+  width: 25%;
   text-align: center;
   font-style: italic;
   text-decoration: underline;
@@ -108,30 +94,12 @@ footer {
 .twitter {
   text-align: center;
 }
-.eval {
-  vertical-align: text-top;
-  font-size: 16px;
-  font-family: times;
-  font-weight: bold;
-}
 .compare {
-  width:25%;
+  width:47%;
   text-align: center;
   font-style: italic;
   text-decoration: underline;
   border: 1px solid black;
-  font-size:18px;
-}
-.draft {
-  text-align: center;
-  font-style: italic;
-  text-decoration: underline;
-  border: 1px solid black;
-  font-size:18px;
-}
-.lottery {
-  vertical-align: text-top;
-  font-weight: bold;
   font-size:18px;
 }
 .compar {
@@ -156,8 +124,10 @@ h2 {
   text-align: center;
   margin: auto;
 }
-.pred {
-  text-align: center;
+.georgia {
+  width: 33px;
+  height:28px;
+  vertical-align: auto;
 }
 iframe {
   padding-left: 30px;
