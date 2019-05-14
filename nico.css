@@ -1,0 +1,171 @@
+body {
+  background-image: url("drl1.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+h1 {
+  text-align: center;
+}
+td {
+  font-size: 17px;
+  font-family: times;
+}
+hr {
+  width: 175px;
+}
+p2 {
+  font-size: 18px;
+  font-family: times;
+}
+td {
+  text-align: left;
+}
+li {
+  text-align: center;
+}
+.info {
+  width: 25%;
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+}
+.recruit {
+  width: 47%;
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+}
+.achieve {
+  width: 28%;
+  font-size: 18px;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+}
+.l1 {
+  text-align:left;
+}
+.ae {
+  width: 300px;
+  height:350px;
+}
+.offers {
+  width: 25%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.crystal {
+  font-size:18px;
+  width: 25%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+}
+hr {
+  width:100%;
+}
+footer {
+  position:static;
+  left:0;
+  bottom:0;
+  width:100%;
+  color:black;
+  text-align:center;
+}
+.social {
+  width: 28%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.twitter {
+  text-align: center;
+}
+.compare {
+  width:47%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.compar {
+  vertical-align: text-top;
+}
+a {
+  text-decoration: none;
+}
+p1 {
+  color: black;
+}
+.morgan {
+  font-size: 16px
+}
+.jwjpg {
+  height:110px;
+  width:115px;
+}
+h2 {
+  background-color: red;
+  color: white;
+  text-align: center;
+  margin: auto;
+}
+.georgia {
+  width: 33px;
+  height:28px;
+  vertical-align: auto;
+}
+iframe {
+  padding-left: 30px;
+}
+.predictions {
+  width: 47%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.rating{
+  width: 28%;
+  text-align: center;
+  font-style: italic;
+  text-decoration: underline;
+  border: 1px solid black;
+  font-size:18px;
+}
+.predictionnn {
+  vertical-align: text-top;
+  text-align: center;
+}
+.five {
+  width:130px;
+  height:55px;
+  padding-left: 35%;
+}
+.text {
+  text-align: center;
+  vertical-align: baseline;
+}
+figcaption {
+  text-align: center;
+}
+.aedwards {
+  width: 55px;
+  height:60px;
+  border-radius:50%;
+}
